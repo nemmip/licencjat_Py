@@ -1,0 +1,27 @@
+ID,city,district,state
+0,Łopuchowo,poznański,wielkopolskie
+1,Przetoczyno,wejherowski,pomorskie
+2,Drwalew,grójecki,mazowieckie
+3,Koleczkowo,wejherowski,pomorskie
+4,Piotrków Kujawski,radziejowski,kujawsko-pomorskie
+5,Kleszczewo,gdański,pomorskie
+6,Celinów,miński,mazowieckie
+7,Balczewo,inowrocławski,kujawsko-pomorskie
+8,Grodzisk Mazowiecki,grodziski,mazowieckie
+9,Dębe Wielkie,miński,mazowieckie
+10,Podzamek Golubski,golubsko-dobrzyński,kujawsko-pomorskie
+11,Kalsk,zielonogórski,lubuskie
+12,Bielsko-Biała,,śląskie
+13,Mokre,wołomiński,mazowieckie
+14,Głuchów,łódzki wschodni,łódzkie
+15,Kaleń-Towarzystwo,grodziski,mazowieckie
+16,Ludomy,obornicki,wielkopolskie
+17,Wrocław,,dolnośląskie
+18,Nowa Wieś,kościański,wielkopolskie
+19,Terenia,pruszkowski,mazowieckie
+20,Bronisin Dworski,łódzki wschodni,łódzkie
+21,Kąty-Wielgi,wołomiński,mazowieckie
+22,Ruda Śląska,,śląskie
+23,Brodnica,śremski,wielkopolskie
+24,Wełtyń,gryfiński,zachodniopomorskie
+25,Czmoń,poznański,wielkopolskie
