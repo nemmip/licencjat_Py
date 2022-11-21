@@ -1,18 +1,31 @@
 from bs4 import BeautifulSoup
 from stable_model import Adress, Stable
 import csv
+import requests as req
+from os import path, remove
+
+__STABLES_PATH = './stables.csv'
+__INFRA_PATH = './infra.csv'
 
 
-def saveSite():
-    # try:
-    f = open('./revolta.html', 'r')
-    soup = BeautifulSoup(f, features="html.parser")
-    stables_html = soup.body.find_all("div", "ogloszenie stajnie")
-    stables = [extractStableIntoClass(el) for el in stables_html]
+def scrapStables(numOfStables):
+    responses: list = []
+    for i in range(1, numOfStables+1):
+        response = req.get(
+            f"https://ogloszenia.re-volta.pl/stajnie/?boksy=2&strona={i}")
+        responses.append(response.text)
+        print(response.status_code)
+    saveSites(responses)
+
+
+def saveSites(htmls: list):
+    stables: list = []
+    for html in htmls:
+        soup = BeautifulSoup(html, features="html.parser")
+        stables_html = soup.body.find_all("div", "ogloszenie stajnie")
+        stables.extend([extractStableIntoClass(el) for el in stables_html])
 
     saveStablesCsv(*stables)
-    # except:
-    #     print("Not found, trying to scrap...")
 
 
 def extractStableIntoClass(stable):
@@ -42,9 +55,9 @@ def extractInfrastructure(stable):
 
 def saveStablesCsv(*stables):
     i = 0
-    with open('stables.csv', "w") as file:
+    with open(__STABLES_PATH, "a") as file:
         writer = csv.writer(file)
-        with open('infra.csv', "w") as infra_file:
+        with open(__INFRA_PATH, "a") as infra_file:
             infra_writer = csv.writer(infra_file)
             writer.writerow(['ID', 'city', 'district', 'state'])
             infra_writer.writerow(['Stable_ID', 'Category'])
@@ -54,3 +67,15 @@ def saveStablesCsv(*stables):
                 for infr in stable.infrastructure:
                     infra_writer.writerow([i, infr])
                 i += 1
+
+
+def deleteOldFiles():
+    infraExist: bool = path.exists(__INFRA_PATH)
+    stablesExist: bool = path.exists(__STABLES_PATH)
+
+    if infraExist:
+        remove('./infra.csv')
+        print(f"Deleted {__INFRA_PATH}")
+    if stablesExist:
+        remove('./stables.csv')
+        print(f"Deleted {__STABLES_PATH}")

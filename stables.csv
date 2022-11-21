@@ -25,3 +25,363 @@ ID,city,district,state
 23,Brodnica,śremski,wielkopolskie
 24,Wełtyń,gryfiński,zachodniopomorskie
 25,Czmoń,poznański,wielkopolskie
+27,Moskwa,łódzki wschodni,łódzkie
+28,Mazańcowice,bielski,śląskie
+29,Więcbork,sępoleński,kujawsko-pomorskie
+30,Chrząstawa Wielka,wrocławski,dolnośląskie
+31,Zębowo,nowotomyski,wielkopolskie
+32,Skorogoszcz,brzeski,opolskie
+33,Zbychowo,wejherowski,pomorskie
+34,Bogatki,piaseczyński,mazowieckie
+35,Grabnik,warszawski zachodni,mazowieckie
+36,Żabinek,drawski,zachodniopomorskie
+37,Sady,nowodworski,mazowieckie
+38,Popkowice Księże,kraśnicki,lubelskie
+39,Stegna,nowodworski,pomorskie
+40,Iwno,poznański,wielkopolskie
+41,Kocmyrzów,krakowski,małopolskie
+42,Paczółtowice,krakowski,małopolskie
+43,Anielin,kozienicki,mazowieckie
+44,Facimiech,krakowski,małopolskie
+45,Młodzieszyn,sochaczewski,mazowieckie
+46,Anastazew,wyszkowski,mazowieckie
+47,Czerniejewo,gnieźnieński,wielkopolskie
+48,Przetoczyno,wejherowski,pomorskie
+49,Drążgów,rycki,lubelskie
+50,Łódź,,łódzkie
+51,Międzyrzecze Górne,bielski,śląskie
+53,Białogard,białogardzki,zachodniopomorskie
+54,Porąbka,bielski,śląskie
+55,Mikołajów,tomaszowski,łódzkie
+56,Charzykowy,chojnicki,pomorskie
+57,Warszawa,,mazowieckie
+58,Świdnica,świdnicki,dolnośląskie
+59,Budziska,miński,mazowieckie
+60,Czarna,łańcucki,podkarpackie
+61,Katowice,,śląskie
+62,Klęk,zgierski,łódzkie
+63,Tłuszcz,wołomiński,mazowieckie
+64,Czernichów,krakowski,małopolskie
+65,Góra,poznański,wielkopolskie
+66,Mochowo,sierpecki,mazowieckie
+67,Wilcza Góra,piaseczyński,mazowieckie
+68,Łazy,zawierciański,śląskie
+69,Łąki,garwoliński,mazowieckie
+70,Modliszów,świdnicki,dolnośląskie
+71,Osła,bolesławiecki,dolnośląskie
+72,Szewce,trzebnicki,dolnośląskie
+73,Rudzica,bielski,śląskie
+74,Grodziec,bielski,śląskie
+75,Wola Rębkowska,garwoliński,mazowieckie
+76,Sokołów Małopolski,rzeszowski,podkarpackie
+77,Sławków,będziński,śląskie
+79,Stopnica,buski,świętokrzyskie
+80,Lesiów,radomski,mazowieckie
+81,Siewierz,będziński,śląskie
+82,Kłaczyna,świdnicki,dolnośląskie
+83,Obryte,pułtuski,mazowieckie
+84,Poświętne,wołomiński,mazowieckie
+85,Stalewo,elbląski,warmińsko-mazurskie
+86,Gromadka,,59-706
+87,Stary Adamów,zgierski,łódzkie
+88,Częstochowa,,śląskie
+89,Łodwigowo,ostródzki,warmińsko-mazurskie
+90,Nieborów,,99-416
+91,Ornontowice,mikołowski,śląskie
+92,Zawonia,,55-106
+93,Janów Podlaski,,21-505
+94,Huta Stara A,,42-263
+95,Gostyń,mikołowski,śląskie
+96,Bystrzek,,63-100
+97,Czernichów,krakowski,małopolskie
+98,Barczewo,,11-010
+99,Jabłonna,,23-114
+100,Lębork,,84-300
+101,Jordanow ,,34-240
+102,Opoczno,opoczyński,łódzkie
+103,Polanów,,76-010
+105,Prażmów,,05505
+106,Chełmno,chełmiński,kujawsko-pomorskie
+107,Koluszki ,,95-040
+108,Pierwoszyno,,81-198
+109,Brzozowo,chełmiński,kujawsko-pomorskie
+110,Tomice,,62-060
+111,środa wlkp,,63-000
+112,Leszczyn,,78-125
+113,Rzeszów,,podkarpackie
+114,Sarbiewo ,,09-104
+115,Rzepedź,,38-542
+116,Strzegowo,,06-445
+117,Pasikonie,warszawski zachodni,mazowieckie
+118,Warszawa,,mazowieckie
+119,Stary Kraszew,,05-205
+120,Kalwaria Zebrzydowska ,,34-100
+121,WARSZAWA,,02-977
+122,Ostrzeszów,,63-500
+123,Gorzków Nowy,myszkowski,śląskie
+124,Jaktorów-Kolonia,grodziski,mazowieckie
+125,Głubczyce,,47-280
+126,Dąbie,,62-660
+127,Bolesław,,32-329
+128,Brzeźno,koniński,wielkopolskie
+129,Puławy,,24-100
+131,Rzepedź,,38-542
+132,Czernichów,krakowski,małopolskie
+133,Starogard Gdanski,,83-200
+134,Bolesławiec,,62-053
+135,Garwolin,garwoliński,mazowieckie
+136,Rogoźnik,,42-582
+137,Zabierzów,,32-080
+138,Ługi,,67-106
+139,Zaklików,stalowowolski,podkarpackie
+140,Poręba,zawierciański,śląskie
+141,Klaczyna,,58-173
+142,Chojne,,98-200
+143,Winowno,,42-350
+144,Radwanowice,krakowski,małopolskie
+145,Wejcherowo,,84-200
+146,Stary Wiśnicz,bocheński,małopolskie
+147,BISKUPICE OŁAWSKIE,,55-220
+148,Inowrocław,,88-110
+149,Obrąb k. Przasnysza,,06-300
+150,Dzikowo,,87-125
+151,Łomianki,warszawski zachodni,mazowieckie
+152,Warszawa,,02-977
+153,Wola Łużańska,gorlicki,małopolskie
+154,Opatów,,42-152
+155,Przasnysz,,06-300
+157,Chęciny,,26-060
+158,Trachy,,44-153
+159,Krubki-Górki,,05-326
+160,Nowy Folwark,,62-300
+161,Kolbuszowa,kolbuszowski,podkarpackie
+162,Wierzbno,,07-111
+163,Sobin,,59-101
+164,Kwidzyn,,82-500
+165,Spiczyn,,21-077
+166,Jeziórko,,05-540
+167,Biskupice,,78-425
+168,Kiwity,,11-106
+169,Zalesie Borowe,legionowski,mazowieckie
+170,Chwałowice,oławski,dolnośląskie
+171,Nowy Wiec,,83421
+172,Grębów,,39-410
+173,Pępowo,,83-330
+174,Baboszewo,płoński,mazowieckie
+175,Dębica,,39-200
+176,Goszyn,,83-115
+177,Częstochowa,,42-270
+178,Majdan Golczański,niżański,podkarpackie
+179,Kaleń Towarzystwo,,96-321
+180,Sochaczew,,96-512
+181,Przeczno,toruński,kujawsko-pomorskie
+183,Kowalewo,,89-200
+184,Sztabin,,16-310
+185,Piekary,,96-323
+186,Starogard gdański,,83-200
+187,Trzebnica,,55-100
+188,Wrocław,,dolnośląskie
+189,Hrubieszów,,22-500
+190,Stara Biała,,09-411
+191,Stara Biała ,,09-411
+192,Trzebiatów,,72-320
+193,Boroszewo,,83-115
+194,Irena,,37-470
+195,Kanie,pruszkowski,mazowieckie
+196,Jeziory wielkie,,62-035
+197,Kazuń Bielany,,05-152
+198,Rasztów,wołomiński,mazowieckie
+199,Lisewiec,koło Kolbud,83-050
+200,Klanino,,84-107
+201,Przetoczyno ,,84-217
+202,Wichów,żagański,lubuskie
+203,Wilczyce,wrocławski,dolnośląskie
+204,Teresin,,96-515
+205,Łódź,,łódzkie
+206,Kaleń-Towarzystwo,grodziski,mazowieckie
+207,Krupia Wólka ,,05-540
+209,Trzcianka,,64-980
+210,Kawęczyn,,05-520
+211,Gawłowo,płoński,mazowieckie
+212,Polska,,83-312
+213,Sporniak,,24-204
+214,Ołtarzew ,,05-850
+215,Pławna,strzeliński,dolnośląskie
+216,Szczodrowo,,83-250
+217,Struga,,83-210
+218,Korwin,,62-400
+219,Będzino ,,75-037
+220,Drużbice ,,97-403
+221,Gora,,56-200
+222,Wola Zabierzowska,,32-007
+223,Kcynia,,89-240
+224,Łódź,,łódzkie
+225,Bedlno,,99-311
+226,Jadów,,05-280
+227,Lublin,,lubelskie
+228,Borcz,,83-312
+229,Łopuszna ,,34-432
+230,Zgierz,,95-100
+231,Złotniki Kujawskie,,88-180
+232,Żarnów,,26-330
+233,Siemień,,21-220
+235,Ostrów Wielkopolski,,63-400
+236,Tłuszcz ,,05-240
+237,Szczecin,,zachodniopomorskie
+238,Łowęcin,,62-020
+239,Miłocice Małe,,55-220
+240,Będzelin,,95-040
+241,Kolbudy,,83050
+242,ROGUSKO,,63-040
+243,Węgielnia,,64-305
+244,Gliszcz,Sicienko,85-858
+245,Świętokrzyskie,Mirzec,27-220
+246,Szczecinek,,78-400
+247,Pomorskie,,83-333
+248,Turów,,42256
+249,Starogard gdański,,83-200
+250,Krzyżanowice,trzebnicki,dolnośląskie
+251,Puszczykowo,,62-040
+253,Łochów,,07-130
+254,Gliszcz,,86-014
+255,Bytom,,41-914
+256,Szczytno,,12-100
+257,Wilcza Góra ,,05-506
+258,Brzozówka,,05-152
+259,Wyrza,,89-115
+261,Jelenia Góra,,dolnośląskie
+262,Malinowo,,13-200
+263,Kielno,,84-208
+264,Jedlnia-Letnisko,,26-630
+265,78-445 Łubowo,,78-445
+266,Leszno,,05-084
+267,Tuchomie,,77-133
+268,Łagów Lubuski,,66-220
+269,Kiwity,,11-106
+270,Laskowa,,34-602
+271,Mrzezino,,84-123
+272,Bierkowo,,76-200
+273,Starogard Gdański,,83-200
+274,Skrzyszów,,44-348
+275,Głogów Małopolski (Zabajka),,36-060
+276,Dziecinów,,08-443
+277,Pólko,,21-003
+278,Andrychów,,34-120
+279,Słwków,,41-260
+280,Stefanówka,,05-555
+281,Wojciechów,,24-204
+282,Jasienica,,43-395
+283,Kaleń-Towarzystwo,,96-321
+284,Mąkowarsko,,86-013
+285,Bolechowice,,26-052
+287,Jasienica,,43-385
+288,Olszowice,,32-040
+289,Luboń,poznański,wielkopolskie
+290,Dolsk,śremski,wielkopolskie
+291,Gliszcz,,86-014
+292,Szymanowo,śremski,wielkopolskie
+293,Stanisławów,,05-304
+294,Dargikowo,białogardzki,zachodniopomorskie
+295,Sobków,,28-305
+296,Zabajka (Głogów Młp.),,36-060
+297,Tarkowo dolne,,86-060
+298,Wiżajny,,16-407
+299,Krasiczyn,przemyski,podkarpackie
+300,Karczów,,49-120
+301,Tarnowskie Góry,,42-600
+302,Lorcin/ k.nasielska,,05-190
+303,Ciepielów,lipski,mazowieckie
+304,Tychy,,43-100
+305,Szymbark,,83-315
+306,Dziergowice ,,47-244
+307,Pokrzywnica,,06-114
+308,Grębów,,39-410
+309,Dobruchów ,,98105
+310,Byczyna,,46-220
+311,Konopnica,,98-313
+313,Lusowo,,62-080
+314,Stryszów,,34-146
+315,Otusz,,64-320
+316,Puck,,84-100
+317,Pustków,,39-205
+318,Sieradz,,98-200
+319,Kodrąbek,,72-518
+320,Niemcza,,58-230
+321,Nowy Zamość 11,,09-204
+322,Łężyce,,84-207
+323,Trzyciąż,,32-353
+324,Borówno,,86-022
+325,Dębowa,dębicki,podkarpackie
+326,Podgaj,strzeliński,dolnośląskie
+327,Łódź,,91-531
+328,Zabłudów ,białostocki,podlaskie
+329,Janowice,,43-512
+330,Łajski,,05-119
+331,Załuski,,09-141
+332,Szymanów,sochaczewski,mazowieckie
+333,Kępa Oborska,piaseczyński,mazowieckie
+334,Opole,,opolskie
+335,Płaza,,32-552
+336,Olszyny,szczycieński,warmińsko-mazurskie
+337,Strzyżewice,,23-107
+339,Chudów,gliwicki,śląskie
+340,Sztabinki,,16-500
+341,Grabów nad Pilicą,,26-902
+342,Bielsk Podlaski,,17-132
+343,Turek,,62-700
+344,Kuźnica,,16-123
+345,Zendek,,42-625
+346,Kawęczyn,,05-520
+347,MNISZKÓW,,26-341
+348,Żmigród,,55-140
+349,Osjaków,wieluński,łódzkie
+350,Antoniew gm. Wiskitki,,96-315
+351,Radom,,26-600
+352,Otwock,,05-402
+353,Lutomia Dolna 81,,58-100
+354,Szewce,,64-320
+355,Konstancin-Jeziorna,,05-520
+356,Czerniejów - Kolonia 48,,23-114
+357,Jastrząb,,42-360
+358,Chwałowice,oławski,dolnośląskie
+359,Śrem,śremski,wielkopolskie
+360,Czarne,,87-821
+361,Reda,,84-240
+362,Morsko,zawierciański,śląskie
+363,Kicin,,62-004
+365,Poręba Wielka,limanowski,małopolskie
+366,Ludwinowo Zegrzyńskie,legionowski,mazowieckie
+367,BISKUPICE,,42-256
+368,Lesznowola,piaseczyński,mazowieckie
+369,Pieszyce,dzierżoniowski,dolnośląskie
+370,Zawada,,46-022
+371,Koziołek,kozienicki,mazowieckie
+372,Wiry,poznański,wielkopolskie
+373,Głuchów,,96-130
+374,Kłyżów,,37-403
+375,Kocerany ,,05-652
+376,Zaświatycze,,22-220
+377,Wysoczany,,38-542
+378,Chobienice,,64-212
+379,Starkówiec Piątkowski,średzki,wielkopolskie
+380,Gierałcice,,46-250
+381,Jordanów,,34-240
+382,Poznań,,61-680
+383,Ośno Lubuskie,,69-220
+384,Wojnarowice,,55-050
+385,Sławków,będziński,śląskie
+386,Kamion 41,,98-324
+387,D,,62-280
+388,Żytno,radomszczański,łódzkie
+389,Stargard szcz,,73-110
+391,Gdańsk,,80-299
+392,Czułów,,32-060
+393,Lalin,Grabownica,36-207
+394,Ostrów Kolonia,,23-212
+395,Nowy Tomyśl,,64-300
+396,S. K. Rzepkowo,,76-004
+397,Stoczek kolonia k. Lublina,,21-025
+398,Bodzanów,wielicki,małopolskie
+399,Chwaszczyno,,80-209
+400,Zabrodzie,,07-230
+401,Leoncin,,05-155

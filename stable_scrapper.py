@@ -1,3 +1,3 @@
-from save_site import saveSite
-
-saveSite()
+from save_site import scrapStables, deleteOldFiles
+deleteOldFiles()
+scrapStables(16)
